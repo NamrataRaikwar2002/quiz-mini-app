@@ -47,10 +47,13 @@
     box-shadow: var(--box-shadow);
 }
 
-.each_category:nth-child(1):hover,
 .nav_link:hover,
 .login_btn:hover {
     opacity: 0.9;
+}
+
+.each_category:hover{
+    transform: scale(1.03);
 }
 
 .each_category:nth-child(1) {
