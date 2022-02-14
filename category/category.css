@@ -1,7 +1,6 @@
 @import url(/home.css);
 @import url(/style.css);
 
-
 .category_page {
     display: flex;
     flex-direction: column;
