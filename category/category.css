@@ -45,3 +45,12 @@
 .category_heading {
     padding-top: 2rem;
 }
+
+.unlock_quiz {
+    opacity: 0.7;
+}
+
+.unlock_quiz-img {
+    position: relative;
+
+}
