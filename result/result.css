@@ -1,0 +1,32 @@
+@import url(/style.css);
+@import url(/home.css);
+@import url(/ques/ques.css);
+
+.each_option:hover {
+    transform: none;
+    background: none;
+}
+
+.show_result {
+    border-radius: var(--border-radius);
+    padding: 01rem;
+    background-color: var(--environment-color);
+    box-shadow: var(--box-shadow);
+}
+
+.correct_option {
+    background-color: var(--environment-color);
+}
+
+.correct_option:hover {
+    background-color: var(--environment-color);
+}
+
+.wrong_option {
+    background-color: var(--wrong-option);
+}
+
+.wrong_option:hover {
+    background-color: var(--wrong-option);
+
+}
