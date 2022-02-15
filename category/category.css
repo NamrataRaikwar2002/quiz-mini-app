@@ -47,14 +47,6 @@
 }
 
 .unlock_quiz {
-    opacity: 0.9;
+    opacity: 0.7;
 }
 
-.unlock_quiz-img {
-    position: relative;
-}
-
-.number_play_btn:hover {
-    opacity: 0.8;
-
-}
