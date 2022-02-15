@@ -3,6 +3,7 @@
 .navbar {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     width: 100%;
     height: 7rem;
     padding: 1rem;
@@ -45,11 +46,6 @@
     gap: 10rem;
     align-items: center;
     box-shadow: var(--box-shadow);
-}
-
-.nav_link:hover,
-.login_btn:hover {
-    opacity: 0.9;
 }
 
 .each_category:hover {
