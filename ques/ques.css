@@ -1,0 +1,63 @@
+@import url(/style.css);
+@import url(/home.css);
+
+.ques_page {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.ques_section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 4rem;
+    gap: 3rem;
+    height: auto;
+}
+
+.ques_div {
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+    width: 100%;
+}
+
+.each_option {
+    border: 1px solid var(--indian-food-color);
+    width: inherit;
+    border-radius: var(--border-radius);
+    padding: 0.5rem;
+
+}
+
+.each_option:hover {
+    cursor: pointer;
+    transform: var(--transform-scale);
+    background-color: var(--indian-food-color);
+}
+
+.ques_option_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.ques_header {
+    display: flex;
+    justify-content: space-between;
+    border-radius: var(--border-radius);
+    padding: 1rem;
+    background: var(--background-color);
+}
