@@ -52,7 +52,7 @@
     opacity: 0.9;
 }
 
-.each_category:hover{
+.each_category:hover {
     transform: scale(1.03);
 }
 
@@ -66,7 +66,7 @@
 }
 
 .each_category:nth-child(3) {
-    background-color: var(--envirenment-color);
+    background-color: var(--environment-color);
     opacity: 0.7;
 }
 
