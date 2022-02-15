@@ -66,6 +66,12 @@ body {
     transform: var(--transform-scale);
 }
 
+.nav_link:hover,
+.login_btn:hover,
+.number_play_btn:hover {
+    opacity: 0.9;
+}
+
 @media screen and (max-width: 1000px) {
     html {
         font-size: 55%;
