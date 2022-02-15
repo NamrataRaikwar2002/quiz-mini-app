@@ -9,7 +9,7 @@
 
 .show_result {
     border-radius: var(--border-radius);
-    padding: 01rem;
+    padding: 1rem;
     background-color: var(--environment-color);
     box-shadow: var(--box-shadow);
 }
