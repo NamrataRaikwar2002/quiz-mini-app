@@ -7,7 +7,7 @@
     max-width: 100%;
 }
 
-.login_div {
+.login_div{
     display: flex;
     flex-direction: column;
     padding: 3rem;
