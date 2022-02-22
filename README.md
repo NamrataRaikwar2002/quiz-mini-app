@@ -28,6 +28,12 @@
 
 * [Result](https://elastic-lichterman-c24c44.netlify.app/result/result.html)
 
+* [Login](https://elastic-lichterman-c24c44.netlify.app/authentication/login/login)
+
+* [SignUp](https://elastic-lichterman-c24c44.netlify.app/authentication/signup/signup)
+
+* [Forgot Password](https://elastic-lichterman-c24c44.netlify.app/forgotpassword/forgotpassword)
+
 ## Video
 
 
